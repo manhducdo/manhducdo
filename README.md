@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="<YOUR_IMAGE_URL>" width="150" style="border-radius: 50%" alt="Avatar" />
+  <img src="https://avatars.githubusercontent.com/u/62376726?s=96&v=4" width="150" style="border-radius: 50%" alt="Avatar" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc">Do Duc Manh</span></h1>
