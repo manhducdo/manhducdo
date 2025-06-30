@@ -15,7 +15,7 @@
   <a href="https://app.xena.finance" target="_blank"><img src="https://img.shields.io/badge/Xena.Finance-Website-blue?style=flat-square&logo=web"></a>
   <a href="https://app.nep.finance" target="_blank"><img src="https://img.shields.io/badge/Nep.Finance-DeFi-orange?style=flat-square&logo=ethereum"></a>
   <a href="https://alpha.aptrace.xyz" target="_blank"><img src="https://img.shields.io/badge/APTrace-Explorer-yellow?style=flat-square&logo=blockchaindotcom"></a>
-  <a href="https://hyperswell.xyz" target="_blank"><img src="https://img.shields.io/badge/Hyperswell.Finance-DeFi-brown?style=flat-square&logo=blockchaindotcom"></a>
+  <a href="https://hyperswell.xyz" target="_blank"><img src="https://img.shields.io/badge/Hyperswell-DeFi-brown?style=flat-square&logo=blockchaindotcom"></a>
 </p>
 
 ---
