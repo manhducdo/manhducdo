@@ -21,14 +21,14 @@
 
 ## 🧠 About Me
 
-I'm a passionate frontend developer with over **4 years of experience** in modern web development.  
+I'm a passionate Fron-tend Developer with 5 years of experience** in modern web development.  
 I specialize in crafting responsive, high-performance UIs — especially in **blockchain-based platforms**.
 
 💼 I'm currently building Web3 products like **DEXs**, **on-chain analytics**, and **cross-chain tools** using:
 
 > `React`, `Next.js`, `Redux`, `TailwindCSS`, `Web3.js`
 
-I'm on a mission to become a **Senior Frontend Engineer**, and also love exploring backend with `Node.js` and `NestJS`.
+I'm on a mission to become a **Senior Frontend Engineer**, and also love exploring Back-end with `Node.js` and `NestJS`.
 
 ---
 
@@ -65,15 +65,6 @@ I'm on a mission to become a **Senior Frontend Engineer**, and also love explori
 - 🔗 [**Neptune**](https://app.nep.finance): Multi-chain DEX with token lock & voting — `Next.js`, `Highcharts`
 - 🔗 [**APTrace**](https://alpha.aptrace.xyz): Blockchain explorer — `Next.js`, `Redux`
 - 🔗 [**HyperSwell**](https://app.hyperswell.xyz): Advanced DEX with pro trader features — `Next.js`, `Web3`, `Tailwind`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manhducdo&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhducdo&layout=compact&theme=radical" width="45%"/>
-</p>
 
 ---
 
